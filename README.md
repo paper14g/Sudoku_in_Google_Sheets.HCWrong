@@ -11,3 +11,6 @@ Usually, some people use App Scripts because it is much more convenient. Some pe
 Make a copy! But at first, you may have a few #REF errors. This can be fixed by deleting the 6x6 square under "Copy paste into puzzle keeper". Once that is done, select an empty cell and press backspace to randomize your grid. Then, Ctrl+C the empty grid and paste with Ctrl+Shift+V into Puzzle Keeper. Then, copy the generated puzzle in the top right corner of the whole setup and Ctrl+Shift+V into the solving board. From there, you can play until you think you have solved the puzzle. The bottom bar will light up green with a correct solution. Have fun and feel free to look at every expression.
 
 # Links
+https://docs.google.com/spreadsheets/d/1hK9hyOKpe6JInipPoEDY0newxlUTJn5v/edit?usp=drivesdk&ouid=102339219360370398445&rtpof=true&sd=true
+
+This is only a view access, in order to not disrupt anyone's playing. Make a copy to play.
