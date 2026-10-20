@@ -4,13 +4,17 @@ A Sudoku game created purely through Google Sheet functions and absolutely no us
 # What it is
 If you know what Sudoku is, I need no introduction. But, its as simple as making sure no numbers repeat in any row, column, or in one of the six 2x3 boxes. It works through Google sheets built in formulas and the puzzle keeper keeps your puzzle from disappearing. The SOLVED and UNSOLVED changes colors depending on whether your solution is complete or not.
 
+I also created a 9x9 version with basically the same code as the 6x6. However, the puzzle is more unique and probably more fun to play with than the 6x6. I also personally like the 9x9 more, but it wouldn't happen without the 6x6.
+
 # Unique?
 Usually, some people use App Scripts because it is much more convenient. Some people also use APIs to find websites that generate Sudoku boards. Even though this Sudoku is only 6x6, it is randomly generated and always has a valid solution.
 
 # How to play?
 Make a copy! But at first, you may have a few #REF errors. This can be fixed by deleting the 6x6 square under "Copy paste into puzzle keeper". Once that is done, select an empty cell and press backspace to randomize your grid. Then, Ctrl+C the empty grid and paste with Ctrl+Shift+V into Puzzle Keeper. Then, copy the generated puzzle in the top right corner of the whole setup and Ctrl+Shift+V into the solving board. From there, you can play until you think you have solved the puzzle. The bottom bar will light up green with a correct solution. Have fun and feel free to look at every expression.
 
+EDIT: You might not need to do the special copy paste for the 9x9 grid. IDK though. 
+
 # Links
-https://docs.google.com/spreadsheets/d/1hK9hyOKpe6JInipPoEDY0newxlUTJn5v/edit?usp=drivesdk&ouid=102339219360370398445&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1ffQikoecChvEiUbFHIgWlJc6m0acWWxf/edit?usp=drivesdk&ouid=102339219360370398445&rtpof=true&sd=true
 
 This is only a view access, in order to not disrupt anyone's playing. Make a copy to play.
